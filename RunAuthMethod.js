@@ -1,1 +1,1 @@
-
+var Cookies = document.cookie;
